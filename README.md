@@ -35,19 +35,13 @@ air-quality-ml/
 ├── static/
 ├── datasets/
 ├── notebooks/
-│   ├── Random Forest, XGBoost and KNN Regressor.ipynb
-│   └── Ridge and Lasso.ipynb
+│   ├── XGBoost
 ├── models/
 ├── Plot\_AQI.py
 ├── requirements.txt
 └── README.md
 
 🧠 Machine Learning Models
-- Linear Regression
-- Ridge Regression
-- Lasso Regression
-- K-Nearest Neighbors (KNN)
-- Random Forest Regressor
 - XGBoost Regressor
 
 📊 Evaluation Metrics

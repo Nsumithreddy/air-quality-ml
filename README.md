@@ -73,16 +73,9 @@ Edit
 git clone https://github.com/Nsumithreddy/air-quality-ml.git
 cd air-quality-ml
 Install dependencies
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Run the Streamlit app
 
-bash
-Copy
-Edit
 streamlit run streamlit_app.py
 Visit the web interface
 Open your browser and go to: http://localhost:8501/

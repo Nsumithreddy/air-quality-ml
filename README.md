@@ -80,10 +80,6 @@ Then open your browser at: `http://localhost:8501/`
 📜 License
 This project is licensed under the MIT License.
 
-🤝Contact
-Created by Nsumith Reddy  
-GitHub: [https://github.com/Nsumithreddy](https://github.com/Nsumithreddy)
-
 📦Languages
 - Python: 100%
 

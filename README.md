@@ -1,6 +1,6 @@
 🌍 Real-Time Air Quality Monitor
 
-A modern Streamlit web app that monitors and predicts Air Quality Index (AQI) globally in real time using data from the OpenWeatherMap API.
+A modern Streamlit web app that monitors and predicts Air Quality Index (AQI) globally in real time using data from the OpenWeatherMap API .
 
 It calculates live pollutant levels (PM2.5, PM10, O₃, CO, NO₂, SO₂), classifies AQI bands, and predicts the next 4-hour air quality trend using an optimized XGBoost regression model — all displayed interactively with Plotly charts.
 

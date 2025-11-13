@@ -66,7 +66,7 @@ Copy code
 ------------------------------------------------------------
 
 ✨ Example Live Link  
-Streamlit App : [https://air-quality-monitoringg.streamlit.app/]
+Streamlit App : [[https://air-quality-monitoringg.streamlit.app/](https://air-quality-monitoringg.streamlit.app/)]
 
 
 ------------------------------------------------------------

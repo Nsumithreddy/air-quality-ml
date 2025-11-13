@@ -6,3 +6,4 @@ geopy
 plotly
 xgboost
 scikit-learn
+xgboost==1.7.6

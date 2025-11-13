@@ -1,9 +1,4 @@
-# --- Air Quality Monitor: readable, no-noise, predict +4h ---
-# Flow: City -> live OpenWeather data -> preprocess -> AQI + categories ->
-# optional +4h prediction (if real history available) -> clear visuals + download
-
 from datetime import datetime, timezone
-
 import numpy as np
 import pandas as pd
 import requests
